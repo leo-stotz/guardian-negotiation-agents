@@ -1,0 +1,8 @@
+metric,hypothesis_source,setup_A,setup_B,effect_size,effect_size_value,ci_95_low,ci_95_high,p_value,adjusted_p_value,step4_confirmed,source_file
+Fully Compliant Rate,H1,0.2,0.475,"Risk Difference (B - A, pooled)",0.27499999999999997,0.07672007131824601,0.47327992868175395,0.007271775878948228,,YES,main_experiment_analysis/step3_main_tests.csv
+"Deals unter Buyer-Reservationsutility (Anteil, nur Deals)",H2,0.5897435897435898,0.25806451612903225,"Risk Difference (B - A, pooled among deals)",-0.3316790736145575,-0.5497562949204422,-0.11360185230867284,0.006318198378898576,,YES,main_experiment_analysis/step3_main_tests.csv
+Agreement Rate (ungerichtet),H4a,0.975,0.775,"Risk Difference (B - A, pooled)",-0.19999999999999996,-0.3381566086559884,-0.06184339134401154,0.01431554473363503,,YES,main_experiment_analysis/step3_main_tests.csv
+Buyer Utility erfolgreicher Deals (nur Deals),H4b,0.37552954292084717,0.4389779102384291,Hedges' g,0.7558678598439513,0.023230667302836648,0.10366606733232739,0.0024819669059447207,,YES,main_experiment_analysis/step3_main_tests.csv
+Gesamt-Tokens (Mean),H3,54500.325,197514.025,Hedges' g,2.2781459668413913,115132.14302130375,170895.25697869627,2.987284204512287e-14,5.18114602254607e-14,YES,main_experiment_analysis/step3_main_tests.csv
+Laufzeit in s (Mean),H3,47.715919834375384,137.57239995002746,Hedges' g,2.2554165170553353,72.21579833238637,107.49716189891778,8.463585181030635e-15,2.5390755543091905e-14,YES,main_experiment_analysis/step3_main_tests.csv
+API-Kosten in USD (Mean),H3,0.009681873749999962,0.03390143999999996,Hedges' g,2.27401081149109,0.019491131477541862,0.02894800102245816,2.590573011273035e-14,5.18114602254607e-14,YES,main_experiment_analysis/step3_main_tests.csv

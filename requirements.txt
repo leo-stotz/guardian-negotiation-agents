@@ -1,0 +1,13 @@
+# Versions pinned to the environment used for the thesis experiments (Python 3.10).
+# Core (AgenticPay + negotiation runs)
+numpy==2.2.6
+openai==3.0.0
+requests==2.34.2
+typing-extensions==4.16.0
+python-dotenv==1.2.3
+loguru==0.7.3
+
+# Statistical analysis (thesis_main_experiment_step*.py, thesis_final_analysis_freeze.py)
+pandas==2.3.3
+scipy==1.15.3
+statsmodels==0.15.0
